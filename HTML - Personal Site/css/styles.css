@@ -1,0 +1,21 @@
+body{
+    background-color: #F1E0AC;
+}
+
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1{
+    color: coral;
+}
+
+h3{
+    color: chocolate;
+}
+
