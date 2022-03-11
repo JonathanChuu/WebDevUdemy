@@ -54,7 +54,7 @@ function playSound(keyPressed) {
             snare.play()
             break;
         default:
-            
+            break;
     }
 }
 
